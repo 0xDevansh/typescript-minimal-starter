@@ -1,6 +1,12 @@
 # [📔 Typescript minimal starter](https://github.com/DeathVenom54/typescript-minimal-starter)
 
-A minimal starter template for a Typescript project
+A minimal starter template for a Typescript node.js project
+
+## Ingredients
+
+- [typescript](https://npmjs.com/package/typescript)
+- [prettier](https://npmjs.com/package/prettier)
+- [@types/node](https://npmjs.com/package/@types/node)
 
 ## Getting started
 
